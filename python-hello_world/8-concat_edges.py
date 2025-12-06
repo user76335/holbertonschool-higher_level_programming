@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-str1 = "object-oriented"
-str2 = "programming with Python"
-print(str1 + " " + str2)
+# Assume str1 and str2 exist in the starter code
+print(str1 + str2)
+
